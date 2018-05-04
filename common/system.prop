@@ -1,0 +1,12 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+#Fucking-Tweaks *Start*
+#debug.sf.enable_hwc_vds=1
+#debug.sf.hw=1
+#debug.sf.latch_unsignaled=1
+#debug.egl.hw=1
+#debug.gralloc.enable_fb_ubwc=1
+#dev.pm.dyn_samplingrate=1
+#sdm.perf_hint_window=50
+#persist.hwc.enable_vds=1

@@ -1,0 +1,7 @@
+id=Paradox-Tweaks
+name=Xiaomi Mi5 Paradox-Tweaks
+version=v020
+versionCode=020
+author=akavkl
+description=Fix CPU frequencies, GMS doze and better RAM Management
+minMagisk=1600
